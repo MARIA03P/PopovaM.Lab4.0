@@ -76,8 +76,8 @@ namespace Lr4
 
         static void PrintMenu()
         {
-            Console.WriteLine("1) Подписаться на канал");
-            Console.WriteLine("2) Отписаться от канала");
+            Console.WriteLine("1) Подписаться на новости");
+            Console.WriteLine("2) Отписаться от новостей");
             Console.WriteLine("3) Выход");
         }
 
